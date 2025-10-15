@@ -34,3 +34,8 @@ npm start
 
 4. Live Demo
 Visit: https://ravitravelts.ccbp.tech/login
+
+# User Credentials:
+username: rahul
+password: rahul@2021
+
