@@ -23,8 +23,8 @@ State Management: React Hooks (useState, useEffect)
 # Installation & Setup:
 
 1. Clone the repository
-git clone https://github.com/your-username/travel-trip.git
-cd travel-trip-project
+git clone https://github.com/Ravitejamangilipelly/pearlthoughts-travel-trip.git
+cd pearlthoughts-travel-trip
 
 2. Install dependencies
 npm install
